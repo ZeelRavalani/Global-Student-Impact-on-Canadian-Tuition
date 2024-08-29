@@ -1,5 +1,10 @@
 # Global-Student-Impact-on-Canadian-Tuition
 
+## Live Link
+
+[Global Student Impact on Canadian Tuition](https://globalstudentimpact.netlify.app/)
+
+
 ## Project Report
 
 #### Zeel Ravalani
