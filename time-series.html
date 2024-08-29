@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tuition Fee Trends (2015-2023) by Province</title>
+  <script src="./JsFiles/d3v7.js"></script>
+  <style>
+    .tooltip {
+      position: absolute;
+      background-color: #fff;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      padding: 5px;
+      opacity: 0;
+    }
+  </style>
+</head>
+<body>
+  <h1>International Tuition Fee Trends for Graduates (2015-2023) by Canadian Province</h1>
+  <svg id="IntGradTuitionChart" width="1100" height="500"></svg>
+
+  <h1>International Tuition Fee Trends for Undergraduates  (2015-2023) by Canadian Province</h1>
+  <svg id="IntUndergradTuitionChart" width="1100" height="500"></svg>
+  <div class="tooltip"></div>
+ <script src="./JsFiles/timeSeries.js"></script>
+</body>
+</html>
