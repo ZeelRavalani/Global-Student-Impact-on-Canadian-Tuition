@@ -7,6 +7,7 @@
 #### zeel.ravalani@dal.ca
 
 #### **Advisor**: Prof. Stephen Brooks
+---
 
 **ABSTRACT :** This report details the development of an interactive visualization system that empowers users to
 explore the intricate relationship between international student inflows and tuition fees in Canada. The system
@@ -117,8 +118,8 @@ strategic partnerships with institutions in countries with high student mobility
   <img src="images/fig1.png" alt="World Map Visualization for Year 2023"/>
   <figcaption>Figure 1: World Map Visualization for Year 2023.</figcaption>
 </figure>
-
-**Choropleth Map:** This map visually depicts the distribution of international students across Canadian
+<br>
+<b>Choropleth Map:</b> This map visually depicts the distribution of international students across Canadian
 provinces. Provinces with high concentrations of international students might benefit from additional resources
 to support international student integration and success [6]. Conversely, provinces with lower student intake
 may require targeted strategies to attract a more diverse international student population [1].
@@ -127,8 +128,8 @@ may require targeted strategies to attract a more diverse international student 
   <img src="images/fig2.png" alt="Canadian Province Choropleth Map Visualization for Year 2023"/>
   <figcaption>Figure 2 : Canadian Province Choropleth Map Visualization for Year 2023.</figcaption>
 </figure>
-
-**Time Series Graph:** This graph provides insights into tuition fee trends across Canadian provinces. It allows
+<br>
+<b>Time Series Graph:</b> This graph provides insights into tuition fee trends across Canadian provinces. It allows
 for comparisons between tuition fees for Graduate and Undergraduate international students, potentially
 revealing correlations between student inflows and fee increases [2, 3]. By analyzing trends over a specific
 timeframe, policymakers can gain valuable insights for tuition fee regulation and budgeting. However, it is
@@ -139,13 +140,13 @@ institutional costs [3, 6].
   <img src="images/fig3.png" alt="International Graduates Tuition Fees Trends" />
   <figcaption>Figure 3 : International Graduates Tuition Fees Trends.</figcaption>
 </figure>
-
+<br>
 <figure>
   <img src="images/fig4.png" alt="International Undergraduates Tuition Fees Trends" />
   <figcaption>Figure 4 : International Undergraduates Tuition Fees Trends.</figcaption>
 </figure>
-
-**Benefits of Interactive Visualization**
+<br>
+<b>Benefits of Interactive Visualization</b>
 
 Interactive visualizations offer several advantages over traditional static reports when exploring complex
 relationships such as the one between international student mobility and tuition fees.
